@@ -1,0 +1,3 @@
+# Ignore jupyter checkpoint save files #
+########################################
+*/.ipynb_checkpoints/*
